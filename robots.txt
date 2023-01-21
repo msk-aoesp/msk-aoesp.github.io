@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://aoesp.ru/sitemap.xml
+Sitemap: https://aoesp.ru/sitemap.xml
